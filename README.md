@@ -1,0 +1,2 @@
+# shoporia
+my affliate website
